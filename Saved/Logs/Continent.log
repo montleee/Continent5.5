@@ -1926,3 +1926,284 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.13-23.54.11:551][677]LogGameProjectGeneration: Warning: Failed to find a suffix for the default project name
 [2024.12.13-23.54.17:776][813]LogSlate: Window 'Преобразовать проект' being destroyed
 [2024.12.13-23.54.19:153][912]LogSlate: Window 'Открыть проект' being destroyed
+[2024.12.13-23.58.48:069][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 703.364441
+[2024.12.13-23.58.49:070][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.13-23.58.49:070][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 704.029663, Update Interval: 302.482971
+[2024.12.14-00.03.55:782][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1011.078247
+[2024.12.14-00.03.56:782][686]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.14-00.03.56:782][686]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1011.745239, Update Interval: 359.589844
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:877][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.07:878][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.07.08:076][748]EditorErrors: Warning: Нет ресурсов для фиксации!
+[2024.12.14-00.09.00:208][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.12.14-00.09.03:383][795]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.14-00.09.03:540][795]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/Targeting/Run_LeftFwd.Run_LeftFwd
+	Asset Type: AnimSequence
+	Asset Name: /Game/Targeting/Run_LeftBack.Run_LeftBack
+	Asset Type: AnimSequence
+	Asset Name: /Game/Targeting/Run_Back.Run_Back
+	Asset Type: AnimSequence
+	Asset Name: /Game/Targeting/Run_Fwd.Run_Fwd
+	Asset Type: AnimSequence
+	Asset Name: /Game/Targeting/Run_Left.Run_Left
+	Asset Type: AnimSequence
+	Asset Name: /Game/Targeting/Run_RightFwd.Run_RightFwd
+	Asset Type: AnimSequence
+	Asset Name: /Game/Targeting/Run_RightBack.Run_RightBack
+	Asset Type: AnimSequence
+	Asset Name: /Game/Targeting/Run_Right.Run_Right
+	Asset Type: AnimSequence
+[2024.12.14-00.09.05:979][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.14-00.09.05:996][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.14-00.09.06:008][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.14-00.09.06:252][795]SourceControl: Error: Updated 0 paths from the index
+[2024.12.14-00.09.06:448][795]SourceControl: rm 'Content/Targeting/Run_Back.uasset'
+[2024.12.14-00.09.06:448][795]SourceControl: rm 'Content/Targeting/Run_Fwd.uasset'
+[2024.12.14-00.09.06:448][795]SourceControl: rm 'Content/Targeting/Run_Left.uasset'
+[2024.12.14-00.09.06:448][795]SourceControl: rm 'Content/Targeting/Run_LeftBack.uasset'
+[2024.12.14-00.09.06:448][795]SourceControl: rm 'Content/Targeting/Run_LeftFwd.uasset'
+[2024.12.14-00.09.06:448][795]SourceControl: rm 'Content/Targeting/Run_Right.uasset'
+[2024.12.14-00.09.06:448][795]SourceControl: rm 'Content/Targeting/Run_RightBack.uasset'
+[2024.12.14-00.09.06:448][795]SourceControl: rm 'Content/Targeting/Run_RightFwd.uasset'
+[2024.12.14-00.09.09:470][ 61]AssetReimport: Попытка удаления Run_LeftFwd (его исходный файл был удален).
+[2024.12.14-00.09.09:470][ 61]AssetReimport: Попытка удаления Run_LeftBack (его исходный файл был удален).
+[2024.12.14-00.09.09:470][ 61]AssetReimport: Попытка удаления Run_Back (его исходный файл был удален).
+[2024.12.14-00.09.09:470][ 61]AssetReimport: Попытка удаления Run_Fwd (его исходный файл был удален).
+[2024.12.14-00.09.09:470][ 61]AssetReimport: Попытка удаления Run_Left (его исходный файл был удален).
+[2024.12.14-00.09.09:470][ 61]AssetReimport: Попытка удаления Run_RightFwd (его исходный файл был удален).
+[2024.12.14-00.09.09:470][ 61]AssetReimport: Попытка удаления Run_RightBack (его исходный файл был удален).
+[2024.12.14-00.09.09:470][ 61]AssetReimport: Попытка удаления Run_Right (его исходный файл был удален).
+[2024.12.14-00.09.10:243][ 74]Cmd: TRANSACTION UNDO
+[2024.12.14-00.09.10:243][ 74]LogEditorTransaction: Undo Редактировать Skeleton
+[2024.12.14-00.09.13:121][300]Cmd: TRANSACTION UNDO
+[2024.12.14-00.09.13:121][300]LogEditorTransaction: Undo Редактировать Skeleton
+[2024.12.14-00.09.13:271][314]Cmd: TRANSACTION UNDO
+[2024.12.14-00.09.13:271][314]LogEditorTransaction: Undo Редактировать Skeleton
+[2024.12.14-00.09.13:424][328]Cmd: TRANSACTION UNDO
+[2024.12.14-00.09.13:424][328]LogEditorTransaction: Undo Редактировать Skeleton
+[2024.12.14-00.09.13:576][342]Cmd: TRANSACTION UNDO
+[2024.12.14-00.09.13:576][342]LogEditorTransaction: Undo Редактировать Skeleton
+[2024.12.14-00.09.13:729][356]Cmd: TRANSACTION UNDO
+[2024.12.14-00.09.13:729][356]LogEditorTransaction: Undo Редактировать Skeleton
+[2024.12.14-00.09.13:871][368]Cmd: TRANSACTION UNDO
+[2024.12.14-00.09.13:871][368]LogEditorTransaction: Undo Редактировать Skeleton
+[2024.12.14-00.09.22:179][385]LogSlate: Window 'ImportContent' being destroyed
+[2024.12.14-00.09.22:215][385]LogInterchangeEngine: [Ожидание] Импорт
+[2024.12.14-00.09.22:594][385]LogInterchangeEngine: [Ожидание] Импорт - Operation completed.
+[2024.12.14-00.09.22:594][385]LogInterchangeEngine: [Успешно] Импортирование выполнено
+[2024.12.14-00.09.26:039][386]LogSlate: Window 'ImportContent' being destroyed
+[2024.12.14-00.09.26:084][386]LogInterchangeEngine: [Ожидание] Импорт
+[2024.12.14-00.09.26:480][386]LogInterchangeEngine: [Ожидание] Импорт - Operation completed.
+[2024.12.14-00.09.26:480][386]LogInterchangeEngine: [Успешно] Импортирование выполнено
+[2024.12.14-00.09.29:951][387]LogSlate: Window 'ImportContent' being destroyed
+[2024.12.14-00.09.29:981][387]LogInterchangeEngine: [Ожидание] Импорт
+[2024.12.14-00.09.30:370][387]LogInterchangeEngine: [Ожидание] Импорт - Operation completed.
+[2024.12.14-00.09.30:370][387]LogInterchangeEngine: [Успешно] Импортирование выполнено
+[2024.12.14-00.09.33:073][388]LogSlate: Window 'ImportContent' being destroyed
+[2024.12.14-00.09.33:116][388]LogInterchangeEngine: [Ожидание] Импорт
+[2024.12.14-00.09.33:512][388]LogInterchangeEngine: [Ожидание] Импорт - Operation completed.
+[2024.12.14-00.09.33:512][388]LogInterchangeEngine: [Успешно] Импортирование выполнено
+[2024.12.14-00.09.36:030][389]LogSlate: Window 'ImportContent' being destroyed
+[2024.12.14-00.09.36:065][389]LogInterchangeEngine: [Ожидание] Импорт
+[2024.12.14-00.09.36:453][389]LogInterchangeEngine: [Ожидание] Импорт - Operation completed.
+[2024.12.14-00.09.36:453][389]LogInterchangeEngine: [Успешно] Импортирование выполнено
+[2024.12.14-00.09.39:180][390]LogSlate: Window 'ImportContent' being destroyed
+[2024.12.14-00.09.39:215][390]LogInterchangeEngine: [Ожидание] Импорт
+[2024.12.14-00.09.39:588][390]LogInterchangeEngine: [Ожидание] Импорт - Operation completed.
+[2024.12.14-00.09.39:588][390]LogInterchangeEngine: [Успешно] Импортирование выполнено
+[2024.12.14-00.09.42:088][391]LogSlate: Window 'ImportContent' being destroyed
+[2024.12.14-00.09.42:131][391]LogInterchangeEngine: [Ожидание] Импорт
+[2024.12.14-00.09.42:527][391]LogInterchangeEngine: [Ожидание] Импорт - Operation completed.
+[2024.12.14-00.09.42:527][391]LogInterchangeEngine: [Успешно] Импортирование выполнено
+[2024.12.14-00.09.44:961][392]LogSlate: Window 'ImportContent' being destroyed
+[2024.12.14-00.09.44:997][392]LogInterchangeEngine: [Ожидание] Импорт
+[2024.12.14-00.09.45:370][392]LogInterchangeEngine: [Ожидание] Импорт - Operation completed.
+[2024.12.14-00.09.45:370][392]LogInterchangeEngine: [Успешно] Импортирование выполнено
+[2024.12.14-00.10.00:045][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:046][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:047][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:047][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:047][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:047][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:047][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:047][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:047][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:047][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:047][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:047][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.00:047][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/nikita/Documents/Unreal Projects/Continent 5.5'
+[2024.12.14-00.10.10:857][116]LogSlate: Window 'Зафиксировать файлы' being destroyed
+[2024.12.14-00.10.11:158][116]LogSourceControl: commit successful: [master 5ea1061] anims
+[2024.12.14-00.10.11:219][116]SourceControl: [master 5ea1061] anims
+[2024.12.14-00.10.11:219][116]SourceControl:  8 files changed, 0 insertions(+), 0 deletions(-)
+[2024.12.14-00.10.11:219][116]SourceControl:  delete mode 100644 Content/Targeting/Run_Back.uasset
+[2024.12.14-00.10.11:219][116]SourceControl:  delete mode 100644 Content/Targeting/Run_Fwd.uasset
+[2024.12.14-00.10.11:219][116]SourceControl:  delete mode 100644 Content/Targeting/Run_Left.uasset
+[2024.12.14-00.10.11:219][116]SourceControl:  delete mode 100644 Content/Targeting/Run_LeftBack.uasset
+[2024.12.14-00.10.11:219][116]SourceControl:  delete mode 100644 Content/Targeting/Run_LeftFwd.uasset
+[2024.12.14-00.10.11:219][116]SourceControl:  delete mode 100644 Content/Targeting/Run_Right.uasset
+[2024.12.14-00.10.11:219][116]SourceControl:  delete mode 100644 Content/Targeting/Run_RightBack.uasset
+[2024.12.14-00.10.11:219][116]SourceControl:  delete mode 100644 Content/Targeting/Run_RightFwd.uasset
+[2024.12.14-00.10.11:246][116]SourceControl: Принято [master 5ea1061] anims.
+[2024.12.14-00.10.11:274][116]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1386.571167
+[2024.12.14-00.10.11:774][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.14-00.10.11:775][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1387.060181, Update Interval: 339.909058
+[2024.12.14-00.10.14:379][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.14-00.10.14:384][326]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.030
+[2024.12.14-00.10.14:385][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Targeting/Run_LeftFwd] ([1] browsable assets)...
+[2024.12.14-00.10.14:435][326]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Targeting/Run_LeftFwd.Run_LeftFwd]
+[2024.12.14-00.10.14:435][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Targeting/Run_LeftFwd]
+[2024.12.14-00.10.14:449][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Targeting/Run_LeftFwd_Auto1
+[2024.12.14-00.10.14:449][326]LogSavePackage: Moving '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Run_LeftFwd_Auto1F794C6FE4AE22008AB156895E99BA24C.tmp' to '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Autosaves/Game/Targeting/Run_LeftFwd_Auto1.uasset'
+[2024.12.14-00.10.14:450][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Targeting/Run_LeftBack] ([1] browsable assets)...
+[2024.12.14-00.10.14:458][326]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Targeting/Run_LeftBack.Run_LeftBack]
+[2024.12.14-00.10.14:458][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Targeting/Run_LeftBack]
+[2024.12.14-00.10.14:471][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Targeting/Run_LeftBack_Auto1
+[2024.12.14-00.10.14:471][326]LogSavePackage: Moving '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Run_LeftBack_Auto112242A9E43CA3CAF6992AF82CE104FD5.tmp' to '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Autosaves/Game/Targeting/Run_LeftBack_Auto1.uasset'
+[2024.12.14-00.10.14:472][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Targeting/Run_Back] ([1] browsable assets)...
+[2024.12.14-00.10.14:480][326]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Targeting/Run_Back.Run_Back]
+[2024.12.14-00.10.14:480][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Targeting/Run_Back]
+[2024.12.14-00.10.14:494][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Targeting/Run_Back_Auto1
+[2024.12.14-00.10.14:494][326]LogSavePackage: Moving '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Run_Back_Auto1D15808BD4EA19FAB5FD8AC84DEE08BB1.tmp' to '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Autosaves/Game/Targeting/Run_Back_Auto1.uasset'
+[2024.12.14-00.10.14:495][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Targeting/Run_Fwd] ([1] browsable assets)...
+[2024.12.14-00.10.14:502][326]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Targeting/Run_Fwd.Run_Fwd]
+[2024.12.14-00.10.14:502][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Targeting/Run_Fwd]
+[2024.12.14-00.10.14:515][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Targeting/Run_Fwd_Auto1
+[2024.12.14-00.10.14:515][326]LogSavePackage: Moving '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Run_Fwd_Auto15657D7554A62E7148E54B9B9F5A32702.tmp' to '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Autosaves/Game/Targeting/Run_Fwd_Auto1.uasset'
+[2024.12.14-00.10.14:516][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Targeting/Run_Left] ([1] browsable assets)...
+[2024.12.14-00.10.14:526][326]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Targeting/Run_Left.Run_Left]
+[2024.12.14-00.10.14:526][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Targeting/Run_Left]
+[2024.12.14-00.10.14:540][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Targeting/Run_Left_Auto1
+[2024.12.14-00.10.14:540][326]LogSavePackage: Moving '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Run_Left_Auto196BDC9C045C7F84C5F4A75BB54FD38BF.tmp' to '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Autosaves/Game/Targeting/Run_Left_Auto1.uasset'
+[2024.12.14-00.10.14:541][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Targeting/Run_RightFwd] ([1] browsable assets)...
+[2024.12.14-00.10.14:550][326]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Targeting/Run_RightFwd.Run_RightFwd]
+[2024.12.14-00.10.14:550][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Targeting/Run_RightFwd]
+[2024.12.14-00.10.14:567][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Targeting/Run_RightFwd_Auto1
+[2024.12.14-00.10.14:567][326]LogSavePackage: Moving '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Run_RightFwd_Auto1A0BFF0464E0E9C51B85722999241DE21.tmp' to '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Autosaves/Game/Targeting/Run_RightFwd_Auto1.uasset'
+[2024.12.14-00.10.14:568][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Targeting/Run_RightBack] ([1] browsable assets)...
+[2024.12.14-00.10.14:576][326]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Targeting/Run_RightBack.Run_RightBack]
+[2024.12.14-00.10.14:576][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Targeting/Run_RightBack]
+[2024.12.14-00.10.14:589][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Targeting/Run_RightBack_Auto1
+[2024.12.14-00.10.14:589][326]LogSavePackage: Moving '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Run_RightBack_Auto1428A746B43049971FFF8769764019432.tmp' to '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Autosaves/Game/Targeting/Run_RightBack_Auto1.uasset'
+[2024.12.14-00.10.14:591][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Targeting/Run_Right] ([1] browsable assets)...
+[2024.12.14-00.10.14:599][326]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Targeting/Run_Right.Run_Right]
+[2024.12.14-00.10.14:599][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Targeting/Run_Right]
+[2024.12.14-00.10.14:614][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Targeting/Run_Right_Auto1
+[2024.12.14-00.10.14:614][326]LogSavePackage: Moving '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Run_Right_Auto1AD95B4B44D5F179EE56F07A2F8D90B65.tmp' to '../../../../../../Users/nikita/Documents/Unreal Projects/Continent 5.5/Saved/Autosaves/Game/Targeting/Run_Right_Auto1.uasset'
+[2024.12.14-00.10.14:614][326]LogFileHelpers: Auto-saving content packages took 0.231
+[2024.12.14-00.11.58:867][405]LogSlate: Window 'Выбрать родительский класс' being destroyed
+[2024.12.14-00.11.58:878][405]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.14-00.11.58:885][405]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.14-00.11.58:901][406]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.14-00.12.00:103][485]LogContentBrowser: Attempting asset rename: NewBlueprint -> aaa
+[2024.12.14-00.12.00:267][485]LogContentBrowser: End creating deferred item NewBlueprint
